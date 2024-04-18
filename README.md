@@ -5,7 +5,7 @@ You can find the dataset [here](https://learn.microsoft.com/en-us/sql/samples/ad
 
 # AdventureWorks Dataset Project
 
-[Dashboard](https://imgur.com/a/XJwBe2T)
+[Dashboard]([https://imgur.com/a/XJwBe2T](https://github.com/jeyem10ta/End-to-End-Business-Intelligence-Solution-with-Power-BI/blob/main/Sales_Analysis.pbix))
 
 # Overview
 
