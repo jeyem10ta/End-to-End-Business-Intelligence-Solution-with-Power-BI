@@ -5,6 +5,8 @@ You can find the dataset [here](https://learn.microsoft.com/en-us/sql/samples/ad
 
 # AdventureWorks Dataset Project
 
+[Dashboard](https://imgur.com/a/XJwBe2T)
+
 # Overview
 
 This project utilizes the AdventureWorks dataset to perform data cleaning, modeling, and visualization using Power Query and Power BI. AdventureWorks is a sample database provided by Microsoft that simulates a fictional bicycle manufacturer and retailer.
